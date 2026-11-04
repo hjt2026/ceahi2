@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">电池监控</string>
+    <string name="select_device">选择设备</string>
+    <string name="bmv_title">单体电压监控</string>
+    <string name="bmt_title">单体温度监控</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="receive_data">接收数据</string>
+    <string name="stop_receiving">停止接收</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">未连接</string>
+    <string name="no_data">暂无数据</string>
+    <string name="max_voltage">最高电压</string>
+    <string name="min_voltage">最低电压</string>
+    <string name="max_temp">最高温度</string>
+    <string name="min_temp">最低温度</string>
+    <string name="cell_index">编号</string>
+    <string name="voltage">电压</string>
+    <string name="temperature">温度</string>
+    <string name="unit_v">V</string>
+    <string name="unit_c">℃</string>
+</resources>
